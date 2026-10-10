@@ -1,3 +1,4 @@
+[Home Auto.txt](https://github.com/user-attachments/files/33291958/Home.Auto.txt)
 # arduino-uno-bluetooth-home-automation
 Arduino UNO-based home automation project using Bluetooth communication and a relay module to control connected electrical devices.
 arduino-uno-bluetooth-home-automation/
@@ -80,7 +81,7 @@ The supported commands, Bluetooth pairing procedure, pin assignments, and relay 
 
 Document the actual results after testing:
 
-* Code compilation: Not yet documented
+* Code compilation: Not yet documented<img width="2736" height="1536" alt="daigram" src="https://github.com/user-attachments/assets/21fc943c-4108-464d-8569-209f0177c373" />
 * Bluetooth communication: Not yet documented
 * Relay switching: Not yet documented
 * Complete hardware test: Not yet documented
